@@ -5,7 +5,7 @@ import { BlogProps } from "@/types";
 
 export default function Home() {
   return (
-    <div className="h-[14000px]">
+    <div className="">
       <Hero />
       <div className="mt-28 text-xl font-bold font-serif">Latest Posts</div>
 
